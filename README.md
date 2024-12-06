@@ -79,6 +79,14 @@ Generated examples demonstrate:
 - [CycleGAN Paper](https://arxiv.org/abs/1703.10593)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [FID Metric](https://arxiv.org/abs/1706.08500)
+- https://arxiv.org/pdf/1703.10593 
+- https://www.kaggle.com/code/latypovramil/monet-cyclegan-implementation-pytorch
+
+This paper introduces the Transformer architecture, which forms the basis for many modern natural language processing (NLP) models. Its insights and methodologies were instrumental in guiding the implementation of core components in this project.
+
+Kaggle: "Monet CycleGAN Implementation (PyTorch)"
+
+This Kaggle notebook demonstrates the application of CycleGAN for unpaired image-to-image translation, transforming photographs into Monet-style artwork. The implementation and techniques described were valuable references for this project.
 
 ---
 
